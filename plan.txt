@@ -1,0 +1,15 @@
+This is a plan folder describing step by step as to how the app progresses.
+
+Step 1: Create a Directory Structure
+Step 2: Download expressJS and install all dependencies
+    The dependencies are:
+        a. dependencies
+        b. expressJS [Unopinioted framework]
+        c.ejs-express-layouts
+        d. nodemon
+Step 3: Create a package.json file that has a list of all the dependencies/libraries installed
+    a. Install yarn. yarn requires nodejs and npm to be installed
+    b. Go to the project directory/folder in cmd/terminal
+    c. Type yarn init
+    d. it will ask you a few questions...answer and move on
+    
